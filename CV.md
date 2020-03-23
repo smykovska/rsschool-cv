@@ -37,3 +37,7 @@ Team player with good communication and problem-solving skills.
     CI/CD (Azure DevOps) 
     Version Control (Git)
 
+
+## Education 
+#### Belarusian State University of Informatics and Radioelectronics | Minsk, Belarus | June 2018
+##### Bachelor of Science in Software for Information Technologies
