@@ -21,5 +21,19 @@ Experienced in using .NET Framework, ASP.NET MVC, WebApi and Sitecore XP as well
 Knowledge of software development life cycle, unit testing, agile methodologies, continuous integration and delivery.
 Team player with good communication and problem-solving skills. 
 
+## Key Skills
 
+### Backend: 
+    C#, .NET, WCF, ASP.NET MVC/WebApi/WebForms, REST API, SOAP
+### Frontend: 
+    HTML, CSS, JavaScript, React, Ajax.
+### Scripting languages:
+    PowerShell, CakeScript
+### Database Technologies: 
+    MS SQL Server, Entity Framework
+### Other 
+    Sitecore CMS Platform
+    Unit testing (XUnit, AutoFixture, Moq, NSubtitute)
+    CI/CD (Azure DevOps) 
+    Version Control (Git)
 
