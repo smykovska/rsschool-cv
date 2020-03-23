@@ -25,12 +25,16 @@ Team player with good communication and problem-solving skills.
 
 ### Backend: 
     C#, .NET, WCF, ASP.NET MVC/WebApi/WebForms, REST API, SOAP
+
 ### Frontend: 
     HTML, CSS, JavaScript, React, Ajax.
+
 ### Scripting languages:
     PowerShell, CakeScript
+
 ### Database Technologies: 
     MS SQL Server, Entity Framework
+    
 ### Other 
     Sitecore CMS Platform
     Unit testing (XUnit, AutoFixture, Moq, NSubtitute)
